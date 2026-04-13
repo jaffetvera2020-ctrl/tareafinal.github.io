@@ -1,0 +1,199 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: #f4f6f9;
+}
+
+/* Contenedor */
+.form-container {
+    width: 500px;
+    margin: 50px auto;
+    padding: 20px;
+    background: white;
+    border-radius: 10px;
+    text-align: center;
+    box-shadow: 0px 0px 15px rgba(0,0,0,0.1);
+}
+
+/* Título */
+h1 {
+    background: #27ae60;
+    color: white;
+    padding: 15px;
+    margin: -20px -20px 20px -20px;
+    border-radius: 10px 10px 0 0;
+}
+
+/* Texto */
+p {
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+/* Menú */
+nav {
+    margin: 20px 0;
+}
+
+nav a {
+    display: inline-block;
+    margin: 5px;
+    padding: 10px 12px;
+    text-decoration: none;
+    color: white;
+    background: #2ecc71;
+    border-radius: 5px;
+    font-size: 14px;
+}
+
+nav a:hover {
+    background: #1abc9c;
+}
+
+/* Línea */
+hr {
+    margin: 20px 0;
+}
+
+/* Logout */
+.logout {
+    text-align: center;
+}
+
+.logout a {
+    display: inline-block;
+    padding: 10px 15px;
+    background: red;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.logout a:hover {
+    background: darkred;
+}
+/* Fondo */
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: #f4f6f9;
+}
+
+/* Texto ID */
+p {
+    text-align: center;
+    font-weight: bold;
+    margin-top: 20px;
+}
+
+/* Contenedor */
+.form-container {
+    width: 350px;
+    margin: 30px auto;
+    padding: 20px;
+    background: white;
+    border-radius: 10px;
+    text-align: center;
+    box-shadow: 0px 0px 15px rgba(0,0,0,0.1);
+}
+
+/* Título */
+h2 {
+    background: #27ae60;
+    color: white;
+    padding: 12px;
+    margin: -20px -20px 20px -20px;
+    border-radius: 10px 10px 0 0;
+    text-transform: uppercase;
+}
+
+/* Inputs */
+input, select {
+    width: 90%;
+    padding: 10px;
+    margin: 8px 0;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+/* Botón */
+button {
+    width: 95%;
+    padding: 10px;
+    margin-top: 10px;
+    background: #27ae60;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-size: 15px;
+}
+
+button:hover {
+    background: #219150;
+}
+
+/* Link regresar */
+a {
+    display: inline-block;
+    margin-top: 12px;
+    padding: 8px 12px;
+    background: #7f8c8d;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+a:hover {
+    background: #616a6b;
+}
+/* Título */
+h2 {
+    text-align: center;
+    margin-top: 20px;
+    color: #ffffff;
+}
+
+/* Tabla */
+table {
+    width: 80%;
+    margin: 20px auto;
+    border-collapse: collapse;
+    background: white;
+    box-shadow: 0px 0px 10px rgba(0,0,0,0.1);
+}
+
+/* Encabezado */
+th {
+    background: #27ae60;
+    color: white;
+    padding: 12px;
+}
+
+/* Celdas */
+td {
+    padding: 10px;
+    text-align: center;
+    border-bottom: 1px solid #ddd;
+}
+
+/* Hover filas */
+tr:hover {
+    background: #f2f2f2;
+}
+
+/* Botón regresar */
+a {
+    display: block;
+    width: 120px;
+    margin: 20px auto;
+    text-align: center;
+    padding: 10px;
+    background: #7f8c8d;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+a:hover {
+    background: #616a6b;
+}
